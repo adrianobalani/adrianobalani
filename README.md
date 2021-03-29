@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adrianobalani
-- 👀 I’m interested in Desenvolvimento Python, Django, C++, Mysql, PostGreSQL, MS-SQL Server
+- 👀 I’m interested in Desenvolvimento Python, Django, C++, Mysql, PostGreSQL, MS-SQL Server, Arduino, RaspBerry
 - 🌱 I’m currently learning Django Rest Framework, C#, JavaScript, Flutter, Dart
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me adrianobalani@yahoo.com.br - Whatsapp/Telegram: 14-98135-8494
